@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "SEO Pricing",
+  description: "SEO Pricing",
+};
 const PricingPage = () => {
   return (
     <>

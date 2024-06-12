@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "SEO Contacts",
+  description: "SEO Contacts",
+};
+
 const ContactPage = () => {
   return (
     <>
